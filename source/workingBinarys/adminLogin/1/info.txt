@@ -1,0 +1,11 @@
+Working Binary
+
+ID:   1
+APP:  adminLogin
+DATE: 7:00PM, 1/05/2021
+
+Details:
+	Encryption: 4096 Bits
+	Read/Write: Forked Operations
+	Warnings:   Optimized
+	Functions:  Seperated
